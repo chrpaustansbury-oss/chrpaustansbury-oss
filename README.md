@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
+My name is Christopher I recently finished my degree in Data Science and Data Analytics.
 
 - 🔭 I’m currently working on my masters in AI and Data Science
 - 🌱 I’m currently learning Tort Law, AI Ethics and CLI
